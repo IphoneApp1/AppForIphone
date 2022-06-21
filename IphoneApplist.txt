@@ -2,5 +2,6 @@
 Liast of Developer for the IphoneApp Project
 Simon 
 Paul
-Brandon
+Brandon(got released)
+Suraj(replaced)
 
