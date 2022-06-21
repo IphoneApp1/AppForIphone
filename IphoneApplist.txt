@@ -1,0 +1,6 @@
+#!/bin/bash
+Liast of Developer for the IphoneApp Project
+Simon 
+Paul
+Brandon
+
